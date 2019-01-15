@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Xylophone
 //
-//  Created by Angela Yu on 27/01/2016.
-//  Copyright © 2016 London App Brewery. All rights reserved.
+//  Created by Atul Bansal on 25/10/18.
+//  Copyright © 2019 London App Brewery. All rights reserved.
 //
 
 import UIKit
